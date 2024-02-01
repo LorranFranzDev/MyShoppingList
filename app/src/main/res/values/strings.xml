@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyShoppingList</string>
+    <string name="text_splashscreen">MINHA LISTA DE COMPRAS</string>
+    <string name="text_welcome">SEJA BEM VINDO(A)</string>
+    <string name="text_tutorial_1">Siga em frente para um breve\ntutorial do app</string>
+    <string name="text_subtutorial_1">Irá aparecer somente nesta primeira vez\nnosso tutorial, após passar por ele somente\ndesinstalando e instalando novamente para\nque ele apareça.</string>
+    <string name="text_edit_product">EDITANDO PRODUTO</string>
+    <string name="text_subtitle_edit_product">PARA EDITAR QUANTIDADE E VALOR DO\nPRODUTO, BASTA PRESSIONAR E AGUARDAR\nALGUNS SEGUNDINHOS QUE JÁ ABRIRÁ A\nOPÇÃO DE EDITAR O MESMO.</string>
 </resources>
